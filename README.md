@@ -4,6 +4,12 @@ SMARTPHONE TRIPOD KICKSTAND
 
 A little kickstand for a cheap smartphone tripod mount.
 
+### FITTING TO YOUR PHONE
+
+This version is best for an iPhone 6, which is about 3.5" wide. If your phone is similar in dimension (within 1/2" or so), this will work easily as is. For significantly larger or smaller phones, the stand is still usable but won't give you the best range of angles.
+
+To fit your phone, you will need to modify the print file, either by extending the leg or shrinking it. (You could also just print it and saw off a piece by hand 😊.)
+
 ### FILES
 
 * 3DM: original Rhino CAD file  
