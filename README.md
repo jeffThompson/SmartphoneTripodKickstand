@@ -22,7 +22,7 @@ To fit your phone, you will need to modify the print file, either by extending t
 [https://amzn.com/B00WFNNNCC](https://amzn.com/B00WFNNNCC)  
 * 1 @ 0.0355" diameter x 1.125" long music wire  
 [http://www.mcmaster.com/#9495k79/=14clyer](http://www.mcmaster.com/#9495k79/=14clyer)  
-A small piece of spring steel wire works very well, but you can also use a cut-off drill bit or paperclip; superglue it into one end of the hinge to keep it from fallling out  
+A small piece of spring steel wire works very well, but you can also use a cut-off drill bit or paperclip; superglue it into one end of the hinge to keep it from fallling out – adding a slight bend can help add some tension in the hinge and keep it in place when adjusting  
 
 And one of the following:  
 
